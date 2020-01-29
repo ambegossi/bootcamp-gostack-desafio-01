@@ -9,7 +9,7 @@
 <p align="center">
 
   <a href="https://ambegossi.com">
-    <img alt="Made by AMBegossi" src="https://img.shields.io/badge/made%20by-ambegossi-%232304D361>
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-ambegossi-%232304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
